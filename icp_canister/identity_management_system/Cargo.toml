@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "src/identity_management_system_backend"
+]
+resolver = "2"

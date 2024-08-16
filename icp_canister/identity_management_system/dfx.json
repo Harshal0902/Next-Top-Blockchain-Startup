@@ -1,0 +1,22 @@
+{
+  "canisters": {
+    "identity_manager": {
+      "type": "rust",
+      "source": [
+        "src/identity_manager/src/lib.rs"
+      ]
+    },
+    "communication_contract": {
+      "type": "rust",
+      "source": [
+        "src/communication_contract/src/lib.rs"
+      ]
+    },
+    "data_integrity": {
+      "type": "rust",
+      "source": [
+        "src/data_integrity/src/lib.rs"
+      ]
+    }
+  }
+}
